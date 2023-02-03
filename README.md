@@ -1,1 +1,1 @@
-# QrcodeGenerator - generate qr with my github link
+# QrcodeGenerator - generate qr with my github profile
